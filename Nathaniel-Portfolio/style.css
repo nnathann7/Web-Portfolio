@@ -1,0 +1,64 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.left{
+	display: flex;
+	align-self: flex-start;
+}
+
+.button-img-cont{}
+
+.link-size{
+	width: 13px;
+	height: 9px;
+}
+
+.center{
+	display: flex;
+	align-content: center;
+		
+}
+.back{
+	background-color:#e2dab1;
+	
+}
+.nav-bar{
+	background-color:#4F3567;
+	display:flex;
+}
+
+
+.table-img img{
+	width:50vw;
+	height:auto;
+}
+
+.text-font{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+#contact-text{
+	opacity: 0.3;
+}
+
+.padding{
+	padding-left: 10px
+}
+
+#nav-align{
+	align-content: flex-start;
+}
+#about{
+	text-align: left;
+	width: 50%;
+	padding: 5px 15px;
+}
+#nav-h{
+	color: azure;
+}
+
+
+/*
+#adventure1, #adventure2{
+	height:392.281px;
+}*/
